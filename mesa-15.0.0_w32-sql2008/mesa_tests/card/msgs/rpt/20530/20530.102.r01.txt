@@ -1,0 +1,125 @@
+MSH
+ 1 |
+ 2 ^~\&
+ 3 MESA_ADT
+ 4 XYZ_ADMITTING
+ 5 MESA_OP
+ 6 XYZ_HOSPITAL
+ 7 
+ 8 
+ 9 ORU^R01
+ 10 20501102
+ 11 P
+ 12 2.3.1
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+PID
+ 1
+ 2 
+ 3 34-09-20530^^^ADT1
+ 4 
+ 5 BROWN^JOHN
+ 6 
+ 7 
+ 8 M
+ 9
+ 10 WH
+ 11 102^MESA^ST
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 20983295
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+OBR
+ 1 1
+ 2 A103Z^MESA_ORDPLC
+ 3 B104Y^MESA_ORDFIL
+ 4 P1^Procedure 1^ERL_MESA^^^
+ 5
+ 6
+ 7 200007010800
+ 8
+ 9
+ 10 
+ 11 
+ 12
+ 13 
+ 14
+ 15
+ 16 
+ 17
+ 18
+ 19
+ 20 
+ 21 
+ 22 
+ 23
+ 24 
+ 25 R
+ 26
+ 27 
+ 28 
+ 29
+ 30 
+ 31 
+ 32 Steve^Moore
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40
+ 41 
+ 42 
+ 43
+ 44
+ 45 
+OBX
+ 1 102
+ 2 HD
+ 3 113014^DICOM Study^DCM
+ 4 
+ 5 1.113654.5.13.1497
+ 6 
+ 7
+ 8
+ 9
+ 10
+ 11 O
+ 12 
+ 13
+ 14
+ 15
+ 16
+ 17
+OBX
+ 1 102
+ 2 ED
+ 3 11525-3^Ultrasound Obstetric and Gyn Report^LN
+ 4 subid
+ 5 ISO OID^Application^PDF^Base64^obx_pdf_to_be_attached
+ 6 
+ 7
+ 8
+ 9
+ 10
+ 11 F
+ 12 
+ 13
+ 14
+ 15
+ 16
+ 17

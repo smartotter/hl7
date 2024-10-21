@@ -1,0 +1,5 @@
+server.keystore 根证书
+ihe.cer          导出证书
+ihe.keystore       
+
+证书文件的密码是123456

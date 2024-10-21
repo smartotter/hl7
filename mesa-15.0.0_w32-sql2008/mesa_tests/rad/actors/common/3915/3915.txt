@@ -1,0 +1,5 @@
+PROFILE	MAMMO
+TEXT	3915/intro.txt
+TEXT	3915/cstore.txt
+TRANSACTION	RAD-8	MOD	IM	STORE	tmp/3915-instances	MODALITY
+TEXT	3915/fini.txt

@@ -1,0 +1,169 @@
+MSH
+ 1 |
+ 2 ^~\&
+ 3 MESA_OF
+ 4 XYZ_RADIOLOGY
+ 5 MESA_IM
+ 6 XYZ_IMAGE_MANAGER
+ 7 
+ 8 
+ 9 ORM^O01
+ 10 100112
+ 11 P
+ 12 2.3.1
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18  
+PID
+ 1
+ 2 
+ 3 M4010^^^ADT1
+ 4 
+ 5 QUEEN^MARY
+ 6 
+ 7 19471104
+ 8 M
+ 9 
+ 10 WH
+ 11 820 JORIE BLVD^^CHICAGO^IL^60523
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 20-98-4010
+ 19 
+ 20 
+ 21 
+ 22 
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30 
+PV1
+ 1 
+ 2 E
+ 3 ED
+ 4
+ 5
+ 6
+ 7 1234^WEAVER^TIMOTHY^P^^DR
+ 8 5101^NELL^FREDERICK^P^^DR
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 V100-1^^^ADT1
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40 
+ 41 
+ 42 
+ 43 
+ 44 200008201100
+ 45 
+ 46 
+ 47 
+ 48 
+ 49 
+ 50 
+ 51 V
+ORC
+ 1 NW
+ 2 A100Z^MESA_ORDPLC
+ 3 B100Z^MESA_ORDFIL
+ 4
+ 5 SC
+ 6
+ 7 1^once^^^^S
+ 8
+ 9 200008161510
+ 10 ^ROSEWOOD^RANDOLPH
+ 11
+ 12 7101^ESTRADA^JAIME^P^^DR
+ 13
+ 14 (314)555-1212
+ 15 200008161510
+ 16
+ 17 922229-10^IHE-RAD^IHE-CODE-231
+ 18
+ 19
+OBR
+ 1 1
+ 2 A100Z^MESA_ORDPLC
+ 3 B100Z^MESA_ORDFIL
+ 4 P8^Procedure 1^ERL_MESA^X1_A1^SP Action Item X1_A1^DSS_MESA
+ 5
+ 6
+ 7 
+ 8
+ 9
+ 10 
+ 11 
+ 12 
+ 13 xxx
+ 14 
+ 15 Radiology^^^^R^
+ 16 7101^ESTRADA^JAIME^P^^DR
+ 17 
+ 18 $ACCESSION_NUMBER$
+ 19 $REQUESTED_PROCEDURE_ID$
+ 20 $SCHEDULED_PROCEDURE_STEP_ID$
+ 21 
+ 22 
+ 23 
+ 24 MR
+ 25 
+ 26 
+ 27 1^once^^^^S
+ 28 
+ 29 
+ 30 WALK
+ 31 
+ 32 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40 
+ 41 A
+ 42 
+ 43 
+ 44 $PROCEDURE_CODE$
+ZDS
+ 1 1.2.1^100^Application^DICOM

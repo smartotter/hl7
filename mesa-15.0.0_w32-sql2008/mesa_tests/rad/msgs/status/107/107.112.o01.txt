@@ -1,0 +1,38 @@
+MSH
+ 1 |
+ 2 ^~\&
+ 3 MESA_OF
+ 4 XYZ_DEPARTMENT
+ 5 MESA_OP
+ 6 XYZ_HOSPITAL
+ 7 
+ 8 
+ 9 ORM^O01
+ 10 107112
+ 11 P
+ 12 2.3.1
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ORC
+ 1 SC
+ 2 A107Z^MESA_ORDPLC
+ 3 B107Z^MESA_ORDFIL
+ 4
+ 5 IP
+ 6
+ 7 
+ 8
+ 9 
+ 10 
+ 11
+ 12 
+ 13
+ 14 
+ 15 
+ 16
+ 17 
+ 18
+ 19

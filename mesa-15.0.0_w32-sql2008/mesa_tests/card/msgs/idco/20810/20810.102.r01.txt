@@ -1,0 +1,159 @@
+MSH
+ 1 |
+ 2 ^~\&
+ 3 MESA_OBS_CRT
+ 4 OBS_CRT_1
+ 5 MESA_OBS_REPOS
+ 6 OBS_REPOS_2
+ 7 200608311200
+ 8 
+ 9 ORU^R01
+ 10 20810102
+ 11 P
+ 12 2.5
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+PID
+ 1
+ 2 
+ 3 model:123/serial:456^^^GDT^MS
+ 4 
+ 5 SCHMIDT^MICHAEL
+ 6 
+ 7 $DATE_TIME_BIRTH$
+ 8 $SEX$
+ 9
+ 10 $RACE$
+ 11 $PATIENT_ADDRESS$
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 $PATIENT_ACCOUNT_NUM$
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+PV1
+ 1 1
+ 2 E
+ 3 
+ 4
+ 5
+ 6
+ 7
+ 8 5101^NELL^FREDERICK^P^^DR
+ 9
+ 10 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 V103-1^^^ADT1
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 32 
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40 
+ 41 
+ 42 
+ 43 
+ 44 200007010800
+ 45 
+ 46 
+ 47 
+ 48 
+ 49 
+ 50 
+ 51 V
+OBR
+ 1 1
+ 2 A20810Z^MESA_ORDPLC
+ 3 B20810Y^MESA_ORDFIL
+ 4 Implant^Procedure 1^ERL_MESA^^^
+ 5
+ 6
+ 7 200608310800
+ 8
+ 9
+ 10 
+ 11 
+ 12
+ 13 
+ 14
+ 15
+ 16 
+ 17
+ 18
+ 19
+ 20 
+ 21 
+ 22 
+ 23
+ 24 
+ 25 F
+ 26
+ 27 
+ 28 
+ 29
+ 30 
+ 31 
+ 32
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40
+ 41 
+ 42 
+ 43
+ 44
+ 45 
+OBX
+ 1 102
+ 2 ED
+ 3 IDC^Implantable Cardiac Device Follow-up Observation^99IHE
+ 4 
+ 5 1.113654.4.15.1000^Application^XML^Base64^obx_xml_to_be_attached
+ 6 
+ 7
+ 8
+ 9
+ 10
+ 11 F
+ 12 
+ 13
+ 14
+ 15
+ 16
+ 17 MDC_IDC_SESSION_TYPE^In Clinic^IEEE P10731.1.3

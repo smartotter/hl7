@@ -1,0 +1,125 @@
+MSH
+ 1 |
+ 2 ^~\&
+ 3 MESA_ADT
+ 4 XYZ_ADMITTING
+ 5 MESA_OP
+ 6 XYZ_HOSPITAL
+ 7 
+ 8 
+ 9 ORU^R01
+ 10 20501102
+ 11 P
+ 12 2.3.1
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 
+PID
+ 1
+ 2 
+ 3 583295^^^ADT1
+ 4 
+ 5 DOE^J1
+ 6 
+ 7 
+ 8 M
+ 9
+ 10 WH
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 18 20983295
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+OBR
+ 1 1
+ 2 A103Z^MESA_ORDPLC
+ 3 B104Y^MESA_ORDFIL
+ 4 P1^Procedure 1^ERL_MESA^^^
+ 5
+ 6
+ 7 200007010800
+ 8
+ 9
+ 10 
+ 11 
+ 12
+ 13 
+ 14
+ 15
+ 16 
+ 17
+ 18
+ 19
+ 20 
+ 21 
+ 22 
+ 23
+ 24 
+ 25 R
+ 26
+ 27 
+ 28 
+ 29
+ 30 
+ 31 
+ 32 173020&Moore&Steve^200007010800^200007010805
+ 33 
+ 34 
+ 35 
+ 36 
+ 37 
+ 38 
+ 39 
+ 40
+ 41 
+ 42 
+ 43
+ 44
+ 45 
+OBX
+ 1 102
+ 2 HD
+ 3 113014^DICOM Study^DCM
+ 4 
+ 5 1.113654.5.13.1497
+ 6 
+ 7
+ 8
+ 9
+ 10
+ 11 O
+ 12 
+ 13
+ 14
+ 15
+ 16
+ 17
+OBX
+ 1 102
+ 2 ED
+ 3 11525-3^Ultrasound Obstetric and Gyn Report^LN
+ 4 5
+ 5 http://mir.wustl.edu/IHERetrieveDocument?requestType=DOCUMENT&documentUID=1.2.3&preferredContentType=appliction%2fpdf^1.113654.4.15.1000^Application^PDF
+ 6 
+ 7
+ 8
+ 9
+ 10
+ 11 R
+ 12 
+ 13
+ 14
+ 15
+ 16
+ 17

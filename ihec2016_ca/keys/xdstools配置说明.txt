@@ -1,0 +1,14 @@
+LogReader:
+http://192.168.1.7:9080/LogReader/
+
+Allocate Patient ID for Registry:
+http://192.168.1.7:9080/xdstools/
+
+XDS test tools
+http://192.168.1.7:9080/xdstools2/
+Password:easy
+
+
+WebService URL
+https://192.168.1.7:9085/tf6/services/xdsregistryb
+https://192.168.1.7:9085/tf6/services/xdsrepositoryb
